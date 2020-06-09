@@ -120,6 +120,8 @@ button span {
 .content-about-us {
   font-size: sans-serif;
   padding: 10px;
+  max-width: 95%;
+  margin: 0 auto;
 }
 
 .content-about-us h2 {
@@ -128,5 +130,4 @@ button span {
 
 .content-about-us p {
   line-height: 1.8;
-  max-weight: 80%;
 }

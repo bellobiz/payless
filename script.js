@@ -1,9 +1,9 @@
 let images = [
     'url("./images/station-gas.jpg")',
-    'url("https://cdn-images-1.medium.com/max/800/1*KG6-nzjAbOQexbcTMOXpCA.jpeg")',
-    'url("https://cdn-images-1.medium.com/max/800/1*c3hRnEuoTXLBgUsYViRWkA.jpeg")',
-    'url("https://cdn-images-1.medium.com/max/800/1*s1YmgLIBzymaWhJoo1x9BQ.jpeg")',
-    'url("https://cdn-images-1.medium.com/max/800/1*ohea0-lSKxfEItLUhyzNSQ.jpeg")',
+    'url("./images/forest-surrounded-fog.jpeg")',
+    'url("./images/nyc-street.jpeg")',
+    'url("./images/woman-fest-up.jpeg")',
+    'url("./images/nyc-buildings.jpeg")',
 ];
 
 let num = 0;
